@@ -153,7 +153,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Why Choose Appointment Catalyst?
       color: text-primary
       styles:
         self:
