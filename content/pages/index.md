@@ -68,10 +68,15 @@ sections:
       - type: FeaturedItem
         title: Tailored to Your Industry
         subtitle: We Understand You
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          At Appointment Catalyst, we specialize in working with small home
+          improvement businesses—just like yours. Whether you’re in roofing,
+          solar, HVAC, or remodeling, we understand the value of your time and
+          the importance of connecting with serious customers. That’s why every
+          appointment we set is aligned with your services, your schedule, and
+          your ideal customer.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
