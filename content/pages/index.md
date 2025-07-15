@@ -8,10 +8,14 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Focus on What You Do Best
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+
+      Let us do the heavy lifting when it comes to finding your next customer.
+      Appointment Catalyst connects you with real decision-makers ready to move
+      forward on roofing, solar, and other high-value home improvement projects.
+      Our bilingual agents handle the outreach, qualification, and scheduling—so
+      you can focus on closing deals and doing what you do best.
+
     actions:
       - label: Get started
         altText: ''
