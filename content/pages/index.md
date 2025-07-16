@@ -407,7 +407,7 @@ sections:
       - title: >-
           “At first I was a bit of a skeptic. Now, I am just glad a gave
           Appointment Catalyst a shot. Truly happy with the results.”
-        tagline: Testimonial 1
+        tagline: ''
         subtitle: 'Angel Rosales, Peak LLC'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
