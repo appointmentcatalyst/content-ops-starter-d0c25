@@ -123,10 +123,15 @@ sections:
         type: FeaturedItem
       - title: Built to Earn Trust
         subtitle: Your Growth Partner
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          You’ll always know what to expect with Appointment Catalyst. We offer
+          clear pricing, consistent communication, and flexible service options
+          designed to grow with your business. Our no-refund-first-order policy
+          is backed by a promise to make it right—because we believe in
+          ownership, loyalty, and doing what’s best for your business, every
+          time.
+
+
         image:
           url: /images/1000070484.png
           altText: Featured icon three
