@@ -101,10 +101,7 @@ sections:
               borderRadius: x-large
       - title: Quality Over Quantity
         subtitle: We Pre-Qualify Leads
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "\_We don’t just hand you a name and number—we deliver real, qualified appointments with decision-makers who are actually interested in what you offer. Our bilingual agents use custom scripts and targeted outreach to identify serious buyers, answer common questions, and schedule appointments that convert. No more chasing cold leads.\n\n"
         image:
           url: /images/1000070484.png
           altText: Featured icon two
