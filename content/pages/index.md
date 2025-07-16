@@ -405,8 +405,8 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “At first I was a bit of a skeptic. Now, I am just glad a gave
+          Appointment Catalyst a shot. Truly happy with the results.”
         tagline: Testimonial 1
         subtitle: 'Angel Rosales, Peak LLC'
         text: >-
