@@ -411,12 +411,9 @@ sections:
         subtitle: 'Angel Rosales, Peak LLC'
         text: >+
 
-          At Appointment Catalyst, we don’t just generate leads — we help
-          businesses grow. Our clients see real results because we focus on
-          quality conversations with decision-makers, not just volume. Whether
-          you're new to appointment setting or looking for a better partner, the
-          success stories speak for themselves. Let us help you write the next
-          one.
+          Results like this aren’t the exception — they’re what we aim for every
+          day. With quality leads and real conversations, we help businesses
+          grow, one appointment at a time.
 
         image:
           url: /images/1000071776.jpg
