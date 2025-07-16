@@ -179,7 +179,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Where Prospects Become Clients
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
