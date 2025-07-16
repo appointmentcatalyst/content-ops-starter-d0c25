@@ -352,7 +352,7 @@ sections:
       text: Built to Support Your Growth
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: 'Proven Systems, Real Appointment Results'
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
