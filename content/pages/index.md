@@ -349,7 +349,7 @@ sections:
         alignItems: center
     type: GenericSection
   - title:
-      text: Business Consulting
+      text: Built to Support Your Growth
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
