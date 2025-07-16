@@ -702,11 +702,14 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Start With a Free Consultation Today
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+      Whether you're new to lead generation or tired of chasing dead-end
+      prospects, we're here to help. Fill out the form and tell us a bit about
+      your business — we'll show you how Appointment Catalyst can bring real,
+      qualified leads straight to your calendar. No pressure, no long-term
+      contracts — just results.
+
     media:
       fields:
         - name: name
