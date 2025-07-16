@@ -409,10 +409,15 @@ sections:
           Appointment Catalyst a shot. Truly happy with the results.”
         tagline: ''
         subtitle: 'Angel Rosales, Peak LLC'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          At Appointment Catalyst, we don’t just generate leads — we help
+          businesses grow. Our clients see real results because we focus on
+          quality conversations with decision-makers, not just volume. Whether
+          you're new to appointment setting or looking for a better partner, the
+          success stories speak for themselves. Let us help you write the next
+          one.
+
         image:
           url: /images/1000071776.jpg
           altText: Maria Walters
