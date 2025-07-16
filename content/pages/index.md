@@ -273,7 +273,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: Bilingual Expert Agents
       color: text-primary
       styles:
         self:
