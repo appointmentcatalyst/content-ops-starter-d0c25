@@ -353,9 +353,15 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: 'Proven Systems, Real Appointment Results'
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+
+      We specialize in helping home improvement businesses scale by delivering
+      reliable, high-quality appointments — not just leads. Our experienced,
+      bilingual agents, flexible pricing, and dedication to service make us the
+      partner you've been looking for. Let’s connect for a free consultation and
+      show you how Appointment Catalyst can make your next quarter your best one
+      yet
+
     actions:
       - label: Get started
         url: /
