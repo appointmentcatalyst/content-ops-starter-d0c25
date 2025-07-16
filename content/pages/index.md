@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: We Connect Homeowners With Trusted Local Pros
+      text: We Connect Home-owners With Trusted Local Pros
       color: text-dark
       type: TitleBlock
     subtitle: Focus on What You Do Best
