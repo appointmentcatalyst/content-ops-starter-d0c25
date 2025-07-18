@@ -13,7 +13,7 @@ sections:
     plans:
       - title: Pick your package
         price: We Make It Easy
-        details: No credit card required
+        details: No long term contracts
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
