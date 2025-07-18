@@ -56,7 +56,7 @@ sections:
           - Windows
           - Home Improvements
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/1000070484.png
           altText: Pricing plan 2
           type: ImageBlock
         actions:
