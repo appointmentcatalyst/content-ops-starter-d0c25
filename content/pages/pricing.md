@@ -50,7 +50,7 @@ sections:
           services listed below. If you offer a service that is not listed,
           please let us know. We might still be able to help you.
         features:
-          - Feature one
+          - Roofing
           - Feature two
           - Feature three
           - Feature four
