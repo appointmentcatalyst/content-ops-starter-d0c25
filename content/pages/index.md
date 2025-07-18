@@ -293,48 +293,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
-  - title:
-      text: Built to Support Your Growth
-      color: text-dark
-      type: TitleBlock
-    subtitle: 'Proven Systems, Real Appointment Results'
-    text: >+
-
-      We specialize in helping home improvement businesses scale by delivering
-      reliable, high-quality appointments — not just leads. Our experienced,
-      bilingual agents, flexible pricing, and dedication to service make us the
-      partner you've been looking for. Let’s connect for a free consultation and
-      show you how Appointment Catalyst can make your next quarter your best one
-      yet
-
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero3.svg
-      altText: Dope design preview
-      type: ImageBlock
-    badge:
-      label: Why Us?
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-    type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
