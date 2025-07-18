@@ -57,7 +57,7 @@ sections:
           - pr-16
   - subtitle: Where Prospects Become Clients
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/1000071838.png
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
