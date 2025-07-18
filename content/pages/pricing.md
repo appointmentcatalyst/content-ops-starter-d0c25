@@ -22,7 +22,7 @@ sections:
           - 30 appointments
           - 40 appointments
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/1000071836.png
           altText: Pricing plan 1
           type: ImageBlock
         actions:
