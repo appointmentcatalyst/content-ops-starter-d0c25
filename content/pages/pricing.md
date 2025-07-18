@@ -18,7 +18,7 @@ sections:
           You can maximize your saving by upgrading your appointment package.
         features:
           - 10 appointments
-          - Feature two
+          - 20 appointments
           - Feature three
           - Feature four
         image:
