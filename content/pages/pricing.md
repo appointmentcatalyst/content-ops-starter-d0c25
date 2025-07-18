@@ -14,9 +14,8 @@ sections:
       - title: Pick your package
         price: We Make It Easy
         details: No long term contracts
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |
+          You can maximize your saving by upgrading your appointment package.
         features:
           - Feature one
           - Feature two
