@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Scroll Down To Find What Works Best For You
     plans:
       - title: Pick your package
         price: We Make It Easy
