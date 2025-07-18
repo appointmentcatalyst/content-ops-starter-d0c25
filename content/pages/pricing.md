@@ -52,7 +52,7 @@ sections:
         features:
           - Roofing
           - Solar
-          - Feature three
+          - HVAC
           - Feature four
         image:
           url: /images/abstract-feature2.svg
