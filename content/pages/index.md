@@ -26,6 +26,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontWeight: 700
     type: ImageGallerySection
   - type: GenericSection
     title:
