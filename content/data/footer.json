@@ -90,6 +90,13 @@
             "url": "/https://www.facebook.com/AppointmentCatalyst",
             "icon": "facebook",
             "elementId": ""
+        },
+        {
+            "type": "Social",
+            "altText": "Instagram link",
+            "url": "/https://www.instagram.com/AppointmentCatalyst",
+            "icon": "instagram",
+            "elementId": ""
         }
     ],
     "legalLinks": [
