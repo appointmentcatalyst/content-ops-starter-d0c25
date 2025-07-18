@@ -51,7 +51,7 @@ sections:
           please let us know. We might still be able to help you.
         features:
           - Roofing
-          - Feature two
+          - Solar
           - Feature three
           - Feature four
         image:
