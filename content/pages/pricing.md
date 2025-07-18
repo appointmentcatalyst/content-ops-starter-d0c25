@@ -19,7 +19,7 @@ sections:
         features:
           - 10 appointments
           - 20 appointments
-          - Feature three
+          - 30 appointments
           - Feature four
         image:
           url: /images/abstract-feature1.svg
