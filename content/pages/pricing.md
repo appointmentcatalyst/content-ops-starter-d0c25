@@ -20,7 +20,7 @@ sections:
           - 10 appointments
           - 20 appointments
           - 30 appointments
-          - Feature four
+          - 40 appointments
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
