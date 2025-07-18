@@ -54,6 +54,7 @@ sections:
           - Solar
           - HVAC
           - Windows
+          - ''
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
