@@ -45,9 +45,10 @@ sections:
       - title: What Is Your Service?
         price: Let Us Know
         details: In What Can We Help
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Please let us know if your company offers more then one of the
+          services listed below. If you offer a service that is not listed,
+          please let us know. We might still be able to help you.
         features:
           - Feature one
           - Feature two
