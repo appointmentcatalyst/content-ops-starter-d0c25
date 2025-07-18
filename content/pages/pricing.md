@@ -42,7 +42,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: What Is Your Service
+      - title: What Is Your Service?
         price: Let Us Know
         details: per month
         description: >-
