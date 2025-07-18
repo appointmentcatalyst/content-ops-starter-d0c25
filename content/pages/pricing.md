@@ -43,7 +43,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: What Is Your Service
-        price: ''
+        price: Let Us Know
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
