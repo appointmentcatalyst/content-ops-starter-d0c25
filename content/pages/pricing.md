@@ -60,7 +60,7 @@ sections:
           altText: Pricing plan 2
           type: ImageBlock
         actions:
-          - label: Try for free
+          - label: Let Us Know HERE
             url: /
             icon: arrowRight
             iconPosition: right
