@@ -2,6 +2,31 @@
 title: Home
 slug: /
 sections:
+  - subtitle: Where Prospects Become Clients
+    images:
+      - url: /images/1000071838.png
+        altText: Empathy logo
+        type: ImageBlock
+      - url: /images/1000071837.png
+        altText: Wellster logo
+        type: ImageBlock
+      - url: /images/1000071834.png
+        altText: Contentful logo
+        type: ImageBlock
+      - url: /images/1000071836.png
+        altText: Sanity logo
+        type: ImageBlock
+      - url: /images/1000071842.png
+        altText: Rangle logo
+        type: ImageBlock
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: ImageGallerySection
   - type: GenericSection
     title:
       text: We Connect Home-owners With Trusted Local Pros
@@ -55,31 +80,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - subtitle: Where Prospects Become Clients
-    images:
-      - url: /images/1000071838.png
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/1000071837.png
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/1000071834.png
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/1000071836.png
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/1000071842.png
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
