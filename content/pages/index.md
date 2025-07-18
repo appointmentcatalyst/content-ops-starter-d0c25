@@ -69,7 +69,7 @@ sections:
       - url: /images/telus-logo.svg
         altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/1000071834.png
         altText: Contentful logo
         type: ImageBlock
       - url: /images/1000071836.png
