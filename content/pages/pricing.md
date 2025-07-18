@@ -53,7 +53,7 @@ sections:
           - Roofing
           - Solar
           - HVAC
-          - Feature four
+          - Windows
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
