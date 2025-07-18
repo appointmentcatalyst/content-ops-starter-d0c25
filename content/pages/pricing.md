@@ -44,7 +44,7 @@ sections:
         type: PricingPlan
       - title: What Is Your Service?
         price: Let Us Know
-        details: per month
+        details: In What Can We Help
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
