@@ -62,7 +62,7 @@
     "socialLinks": [
         {
             "altText": "Email link",
-            "url": "appointmentcatalyst@gmail.com",
+            "url": "/appointmentcatalyst@gmail.com",
             "icon": "mail",
             "type": "Social"
         },
