@@ -76,7 +76,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Open positions
+      text: Our Services
       color: text-dark
       styles:
         self:
