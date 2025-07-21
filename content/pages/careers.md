@@ -81,7 +81,11 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Click below to learn more
+    subtitle: >-
+      We specialize in delivering appointment-ready, high-intent homeowner leads
+      to contractors across the U.S. through a streamlined, remote-first call
+      center solution. Our services are built to drive real, measurable growth
+      for your business—backed by automation, accuracy, and speed.
     items:
       - type: FeaturedItem
         title: Account Executive
