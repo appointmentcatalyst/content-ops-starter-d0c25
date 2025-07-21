@@ -201,7 +201,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: CRM & Automation Integration
-        subtitle: Sales
+        subtitle: ''
         text: >
 
 
