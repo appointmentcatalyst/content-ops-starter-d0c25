@@ -9,15 +9,6 @@
         "title": "A further look into our company",
         "links": [
             {
-                "label": "About Us",
-                "altText": "Features page",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
                 "label": "Packages and Services",
                 "url": "/pricing",
                 "icon": "arrowRight",
