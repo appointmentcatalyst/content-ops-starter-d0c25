@@ -113,10 +113,13 @@ sections:
       - type: FeaturedItem
         title: ' Predictive Dialing Campaigns'
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+
+
+          Our team operates through Vicidial, a powerful predictive dialing
+          platform that enables us to reach thousands of prospects efficiently.
+          This means more conversations, fewer gaps, and faster results for your
+          sales team.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
