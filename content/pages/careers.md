@@ -81,7 +81,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: Click below to learn more
     items:
       - type: FeaturedItem
         title: Account Executive
