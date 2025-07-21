@@ -169,38 +169,6 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: CRM & Automation Integration
-        tagline: Feature 2
-        subtitle: ''
-        text: >
-
-
-          All lead data is synced instantly to your systems using Zoho, Zapier,
-          Calendly, and Google Sheets, providing real-time visibility into every
-          step of the process. No manual data entry. No delays. Just clean,
-          ready-to-close leads.
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Business consulting
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
-        title: CRM & Automation Integration
         subtitle: ''
         text: >
 
