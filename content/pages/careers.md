@@ -10,7 +10,44 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Grows Together
-    text: "\n\ned of your services—ensuring higher conversion rates and lower acquisition costs.\n\n\U0001F539 Predictive Dialing Campaigns\n\nOur team operates through Vicidial, a powerful predictive dialing platform that enables us to reach thousands of prospects efficiently. This means more conversations, fewer gaps, and faster results for your sales team.\n\n\U0001F539 Multi-Touch Lead Workflow\n\nFrom first contact to booked appointment, we implement a seamless workflow that includes:\n\nVerified data sourcing\n\nReal-time lead engagement\n\nEmbedded JotForm data capture\n\nInstant CRM syncing\n\nLive appointment scheduling\n\n\U0001F539 CRM & Automation Integration\n\nAll lead data is synced instantly to your systems using Zoho, Zapier, Calendly, and Google Sheets, providing real-time visibility into every step of the process. No manual data entry. No delays. Just clean, ready-to-close leads.\n\n\U0001F539 Real-Time Quality Assurance\n\nOur QA process runs in real time, allowing us to filter and qualify every lead before it hits your inbox. You get only what matters: valid, compliant, and conversion-ready prospects.\n\n\n\n\nWe don’t just generate leads—we create growth engines for contractors ready to scale. Let us handle the front end, so you can focus on closing deals.\n\n\n\n\n"
+    text: >+
+
+
+      About Us
+
+
+      At our core, we are a cutting-edge, remote-first call center committed to
+      driving growth for contractors across the United States. Our mission is
+      simple yet powerful: to deliver appointment-ready, high-intent homeowner
+      leads that convert.
+
+
+      Leveraging a fully automated and data-driven telemarketing system, we
+      combine predictive dialing, real-time storm tracking, and advanced CRM
+      automation to generate exclusive, high-quality leads. Our workflow is
+      designed for efficiency and results—from sourcing verified homeowner data,
+      to engaging prospects through Vicidial’s predictive dialer, to capturing
+      lead information via embedded JotForms.
+
+
+      All lead data flows seamlessly into our ecosystem through real-time
+      syncing tools like Zoho, Zapier, Calendly, and Google Sheets, ensuring our
+      contractor clients receive timely, accurate, and conversion-ready
+      opportunities.
+
+
+      With a lean operational model and powerful automation, we project monthly
+      revenues to exceed $50,000 within the first year, reaching profitability
+      by Month 3.
+
+
+      We are not just a call center—we are a strategic growth partner for
+      contractors looking to scale their businesses with qualified leads and
+      measurable results.
+
+
+
+
     actions:
       - label: See open positions
         url: /
