@@ -42,16 +42,7 @@ sections:
       Our bilingual agents handle the outreach, qualification, and scheduling—so
       you can focus on closing deals and doing what you do best.
 
-    actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       url: /images/1000066792.png
       altText: Unblock your team boost your time to production preview
