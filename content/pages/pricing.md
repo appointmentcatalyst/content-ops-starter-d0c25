@@ -1,33 +1,32 @@
 ---
-title: Pricing
+title: Packages and Services
 slug: pricing
 sections:
   - title:
-      text: Flexible Pricing
+      text: Packages and Service
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Scroll Down To Find What Works Best For You
     plans:
-      - title: Developers
-        price: Free
-        details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+      - title: Pick your package
+        price: We Make It Easy
+        details: No long term contracts
+        description: |
+          You can maximize your saving by upgrading your appointment package.
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - 10 appointments
+          - 20 appointments
+          - 30 appointments
+          - 40 appointments
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/1000071836.png
           altText: Pricing plan 1
           type: ImageBlock
         actions:
-          - label: Try for free
+          - label: Schedule your consultation Today
             url: /
             icon: arrowRight
             iconPosition: right
@@ -43,23 +42,25 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Professional
-        price: $99
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+      - title: What Is Your Service?
+        price: Let Us Know
+        details: In What Can We Help
+        description: >
+          Please let us know if your company offers more then one of the
+          services listed below. If you offer a service that is not listed,
+          please let us know. We might still be able to help you.
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - Roofing
+          - Solar
+          - HVAC
+          - Windows
+          - Home Improvements
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/1000070484.png
           altText: Pricing plan 2
           type: ImageBlock
         actions:
-          - label: Try for free
+          - label: Let Us Know Here
             url: /
             icon: arrowRight
             iconPosition: right
@@ -75,7 +76,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Enterprise
+      - title: ''
         price: Custom
         details: per month
         description: >-
@@ -88,7 +89,7 @@ sections:
           - Feature four
           - Feature five
         image:
-          url: /images/abstract-feature3.svg
+          url: /images/1000071842.png
           altText: Pricing plan 3
           type: ImageBlock
         actions:
