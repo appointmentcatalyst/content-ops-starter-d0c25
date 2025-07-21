@@ -202,10 +202,13 @@ sections:
       - type: FeaturedItem
         title: CRM & Automation Integration
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+
+
+          All lead data is synced instantly to your systems using Zoho, Zapier,
+          Calendly, and Google Sheets, providing real-time visibility into every
+          step of the process. No manual data entry. No delays. Just clean,
+          ready-to-close leads.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
