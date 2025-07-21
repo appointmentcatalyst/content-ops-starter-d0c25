@@ -90,10 +90,13 @@ sections:
       - type: FeaturedItem
         title: ' Lead Generation & Appointment Setting'
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+
+
+          We provide exclusive leads, not shared or recycled. Using verified
+          data sources and real-time storm insights, we target homeowners who
+          are actively in need of your services—ensuring higher conversion rates
+          and lower acquisition costs.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
