@@ -193,10 +193,21 @@ sections:
       - type: FeaturedItem
         title: ' Real-Time Quality Assurance'
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+
+          Our QA process runs in real time, allowing us to filter and qualify
+          every lead before it hits your inbox. You get only what matters:
+          valid, compliant, and conversion-ready prospects.
+
+
+          We don’t just generate leads—we create growth engines for contractors
+          ready to scale. Let us handle the front end, so you can focus on
+          closing deals.
+
+
+
+
         actions: []
         colors: bg-neutral-fg-dark
         styles:
