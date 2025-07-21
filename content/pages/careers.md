@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: About Us
+    subtitle: Grows Together
     text: >+
 
 
