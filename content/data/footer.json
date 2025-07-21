@@ -4,30 +4,13 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "Check us out on Social Media\n",
+    "text": "Connect With Us\n",
     "primaryLinks": {
-        "title": "A further look into our company",
+        "title": "get to know more",
         "links": [
             {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Pricing",
+                "label": "Packages and Services",
                 "url": "/pricing",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Documentation",
-                "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -40,8 +23,8 @@
         "title": "Company",
         "links": [
             {
-                "label": "Careers",
-                "altText": "careers page",
+                "label": "About Us",
+                "altText": "About us page",
                 "url": "/careers",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -62,7 +45,7 @@
     "socialLinks": [
         {
             "altText": "Email link",
-            "url": "appointmentcatalyst@gmail.com",
+            "url": "/appointmentcatalyst@gmail.com",
             "icon": "mail",
             "type": "Social"
         },
