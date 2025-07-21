@@ -136,10 +136,26 @@ sections:
       - type: FeaturedItem
         title: Multi-Touch Lead Workflow
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+
+
+          From first contact to booked appointment, we implement a seamless
+          workflow that includes:
+
+
+          Verified data sourcing
+
+
+          Real-time lead engagement
+
+
+          Embedded JotForm data capture
+
+
+          Instant CRM syncing
+
+
+          Live appointment scheduling
         actions: []
         colors: bg-neutral-fg-dark
         styles:
