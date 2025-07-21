@@ -88,7 +88,7 @@ sections:
       for your business—backed by automation, accuracy, and speed.
     items:
       - type: FeaturedItem
-        title: Account Executive
+        title: ' Lead Generation & Appointment Setting'
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
