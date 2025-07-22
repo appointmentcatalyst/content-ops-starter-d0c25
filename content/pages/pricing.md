@@ -19,7 +19,7 @@ sections:
         features:
           - '10 appointments  - $200 per lead '
           - 20 appointments - $190 per lead
-          - 30 appointments
+          - 30 appointments -
           - 40 appointments
         image:
           url: /images/1000071836.png
