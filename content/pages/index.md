@@ -461,7 +461,7 @@ sections:
           name: Phone
           label: Phone
           hideLabel: true
-          placeholder: Your email
+          placeholder: Your Phone
           isRequired: true
           width: full
       elementId: >-
