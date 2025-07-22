@@ -1,6 +1,6 @@
 ---
 title: pricing
-slug: Packages and Services
+slug: pricing
 sections:
   - title:
       text: Packages and Service
