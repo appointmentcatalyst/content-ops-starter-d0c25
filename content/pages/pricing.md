@@ -21,7 +21,7 @@ sections:
           - 20 appointments - $190 per lead
           - 30 appointments -$180 per lead
           - 40 appointments - $170 per lead
-          - 50 Leads - $160 per lead
+          - 50 appointments - $160 per lead
         image:
           url: /images/1000071836.png
           altText: Pricing plan 1
