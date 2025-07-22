@@ -73,7 +73,7 @@ sections:
           - '�� Lead Generation & Appointment Setting '
           - �� Predictive Dialing Campaigns
           - '�� Multi-Touch Lead Workflow '
-          - Feature four
+          - �� CRM & Automation Integration
           - Feature five
         image:
           url: /images/1000071842.png
