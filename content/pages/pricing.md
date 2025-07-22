@@ -68,9 +68,7 @@ sections:
       - title: ''
         price: Our Services
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: "We specialize in delivering appointment-ready, high-intent homeowner leads to\_ contractors across the U.S. through a streamlined, remote-first call center solution.\_ Our services are built to drive real, measurable growth for your business—backed\_ by automation, accuracy, and speed.\n"
         features:
           - Feature one
           - Feature two
