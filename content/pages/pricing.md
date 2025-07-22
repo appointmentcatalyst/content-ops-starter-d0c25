@@ -74,7 +74,7 @@ sections:
           - �� Predictive Dialing Campaigns
           - '�� Multi-Touch Lead Workflow '
           - �� CRM & Automation Integration
-          - Feature five
+          - �� Real-Time Quality Assurance
         image:
           url: /images/1000071842.png
           altText: Pricing plan 3
