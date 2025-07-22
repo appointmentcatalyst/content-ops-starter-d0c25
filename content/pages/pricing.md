@@ -70,7 +70,7 @@ sections:
         details: per month
         description: "We specialize in delivering appointment-ready, high-intent homeowner leads to\_ contractors across the U.S. through a streamlined, remote-first call center solution.\_ Our services are built to drive real, measurable growth for your business—backed\_ by automation, accuracy, and speed.\n"
         features:
-          - Feature one
+          - '�� Lead Generation & Appointment Setting '
           - Feature two
           - Feature three
           - Feature four
