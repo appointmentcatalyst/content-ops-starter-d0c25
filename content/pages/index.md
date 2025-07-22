@@ -457,6 +457,13 @@ sections:
           placeholder: Your message
           width: full
           type: TextareaFormControl
+        - type: EmailFormControl
+          name: email
+          label: Email
+          hideLabel: true
+          placeholder: Your email
+          isRequired: true
+          width: full
       elementId: >-
         <form name="contact" method="POST" data-netlify="true">  <input
         type="hidden" name="form-name" value="contact">    <input type="text"
