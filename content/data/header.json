@@ -13,7 +13,7 @@
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
+            "label": "Packages and Services",
             "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -30,7 +30,7 @@
             "type": "Link"
         },
         {
-            "label": "Packages and Services",
+            "label": "About Us",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",
