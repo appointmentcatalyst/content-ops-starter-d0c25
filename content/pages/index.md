@@ -457,7 +457,13 @@ sections:
           placeholder: Your message
           width: full
           type: TextareaFormControl
-      elementId: contact-form
+      elementId: >-
+        <form name="contact" method="POST" data-netlify="true">  <input
+        type="hidden" name="form-name" value="contact">    <input type="text"
+        name="name" placeholder="Your Name">  <input type="email" name="email"
+        placeholder="Your Email">  <input type="tel" name="phone"
+        placeholder="Phone Number">  <textarea name="message" placeholder="Your
+        Message"></textarea>    <button type="submit">Submit</button></form>
       styles:
         self:
           padding:
