@@ -54,13 +54,7 @@ sections:
           url: /images/1000070484.png
           altText: Pricing plan 2
           type: ImageBlock
-        actions:
-          - label: Let Us Know Here
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            type: Button
+        actions: []
         colors: bg-neutral-fg-dark
         styles:
           self:
