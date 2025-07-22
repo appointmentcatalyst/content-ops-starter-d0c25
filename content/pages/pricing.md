@@ -72,7 +72,7 @@ sections:
         features:
           - '�� Lead Generation & Appointment Setting '
           - �� Predictive Dialing Campaigns
-          - Feature three
+          - '�� Multi-Touch Lead Workflow '
           - Feature four
           - Feature five
         image:
