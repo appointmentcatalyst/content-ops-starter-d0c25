@@ -1,5 +1,5 @@
 ---
-title: Packages and Services
+title: pricing
 slug: Packages and Services
 sections:
   - title:
