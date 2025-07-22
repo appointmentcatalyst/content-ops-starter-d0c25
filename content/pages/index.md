@@ -459,7 +459,7 @@ sections:
           type: TextareaFormControl
         - type: EmailFormControl
           name: Phone
-          label: Email
+          label: Phone
           hideLabel: true
           placeholder: Your email
           isRequired: true
