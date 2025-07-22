@@ -25,13 +25,7 @@ sections:
           url: /images/1000071836.png
           altText: Pricing plan 1
           type: ImageBlock
-        actions:
-          - label: Schedule your consultation Today
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            type: Button
+        actions: []
         colors: bg-neutral-fg-dark
         styles:
           self:
