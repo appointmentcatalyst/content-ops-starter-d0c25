@@ -458,7 +458,7 @@ sections:
           width: full
           type: TextareaFormControl
         - type: EmailFormControl
-          name: email
+          name: Phone
           label: Email
           hideLabel: true
           placeholder: Your email
