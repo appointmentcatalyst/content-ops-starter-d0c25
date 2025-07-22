@@ -451,12 +451,6 @@ sections:
           isRequired: true
           width: full
           type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-          type: TextareaFormControl
         - type: EmailFormControl
           name: Phone
           label: Phone
@@ -464,6 +458,12 @@ sections:
           placeholder: Your Phone
           isRequired: true
           width: full
+        - name: message
+          label: Message
+          hideLabel: true
+          placeholder: Your message
+          width: full
+          type: TextareaFormControl
       elementId: >-
         <form name="contact" method="POST" data-netlify="true">  <input
         type="hidden" name="form-name" value="contact">    <input type="text"
