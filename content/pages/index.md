@@ -451,13 +451,6 @@ sections:
           isRequired: true
           width: full
           type: EmailFormControl
-        - type: EmailFormControl
-          name: Phone
-          label: Phone
-          hideLabel: true
-          placeholder: Your Phone
-          isRequired: true
-          width: full
         - name: message
           label: Message
           hideLabel: true
