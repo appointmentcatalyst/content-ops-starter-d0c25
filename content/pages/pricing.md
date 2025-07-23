@@ -73,7 +73,7 @@ sections:
           - Lead Generation & Appointment Setting
           - Predictive Dialing Campaigns
           - Multi-Touch Lead Workflow
-          - �� CRM & Automation Integration
+          - CRM & Automation Integration
           - �� Real-Time Quality Assurance
         image:
           url: /images/1000071842.png
