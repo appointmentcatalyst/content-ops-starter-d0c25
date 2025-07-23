@@ -72,7 +72,7 @@ sections:
         features:
           - Lead Generation & Appointment Setting
           - Predictive Dialing Campaigns
-          - '�� Multi-Touch Lead Workflow '
+          - Multi-Touch Lead Workflow
           - �� CRM & Automation Integration
           - �� Real-Time Quality Assurance
         image:
