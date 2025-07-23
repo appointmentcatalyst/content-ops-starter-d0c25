@@ -457,6 +457,13 @@ sections:
           placeholder: Your message
           width: full
           type: TextareaFormControl
+        - type: TextFormControl
+          name: Phone
+          label: Name
+          hideLabel: true
+          placeholder: Your name
+          isRequired: true
+          width: full
       elementId: >-
         <form name="contact" method="POST" data-netlify="true">  <input
         type="hidden" name="form-name" value="contact">    <input type="text"
