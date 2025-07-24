@@ -38,5 +38,5 @@ seo:
   type: Seo
 type: PostFeedLayout
 bottomSections: []
-isDraft: false
+isDraft: true
 ---
