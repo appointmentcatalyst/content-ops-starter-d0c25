@@ -31,7 +31,6 @@
     },
     "logo": {
         "type": "ImageBlock",
-        "url": "/images/1000070482.png",
         "altText": "Image alt text placeholder",
         "elementId": "",
         "styles": {
