@@ -3,7 +3,7 @@
         {
             "label": "Packages and Services",
             "url": "/pricing",
-            "icon": "arrowRight",
+            "icon": "",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
