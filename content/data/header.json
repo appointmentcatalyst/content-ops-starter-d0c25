@@ -36,7 +36,10 @@
         "elementId": "",
         "styles": {
             "self": {
-                "borderRadius": "medium"
+                "borderRadius": "medium",
+                "margin": [
+                    "mb-10"
+                ]
             }
         }
     }
