@@ -1,16 +1,4 @@
 {
-    "logo": {
-        "url": "/images/1000070482.png",
-        "altText": "Logo dark",
-        "styles": {
-            "self": {
-                "margin": [
-                    "mr-3"
-                ]
-            }
-        },
-        "type": "ImageBlock"
-    },
     "primaryLinks": [
         {
             "label": "Packages and Services",
@@ -33,5 +21,35 @@
     "secondaryLinks": [],
     "variant": "logo-centered-primary-nav-left",
     "colors": "bg-light-fg-dark",
-    "type": "Header"
+    "type": "Header",
+    "styles": {
+        "self": {
+            "margin": [
+                "mb-0"
+            ]
+        }
+    },
+    "logo": {
+        "type": "ImageBlock",
+        "url": "/images/1000070482.png",
+        "altText": "Image alt text placeholder",
+        "elementId": "",
+        "styles": {
+            "self": {
+                "borderRadius": "medium",
+                "margin": [
+                    "mb-7",
+                    "ml-7",
+                    "mr-7",
+                    "mt-7"
+                ],
+                "padding": [
+                    "pl-4",
+                    "pr-4",
+                    "pt-4",
+                    "pb-4"
+                ]
+            }
+        }
+    }
 }
