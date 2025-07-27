@@ -37,7 +37,7 @@
     "styles": {
         "self": {
             "margin": [
-                "mb-2"
+                "mb-0"
             ]
         }
     }
