@@ -37,7 +37,7 @@
             "self": {
                 "borderRadius": "medium",
                 "margin": [
-                    "mb-7",
+                    "mb-2",
                     "ml-7",
                     "mr-7",
                     "mt-2"
