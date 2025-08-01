@@ -16,6 +16,17 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
+        },
+        {
+            "type": "Link",
+            "label": "Home",
+            "altText": "Click Here",
+            "url": "/Home",
+            "showIcon": true,
+            "icon": "mail",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [],
@@ -37,18 +48,19 @@
             "self": {
                 "borderRadius": "medium",
                 "margin": [
-                    "mb-7",
-                    "ml-7",
-                    "mr-7",
-                    "mt-7"
+                    "mb-96",
+                    "ml-96",
+                    "mr-96",
+                    "mt-96"
                 ],
                 "padding": [
-                    "pl-4",
-                    "pr-4",
-                    "pt-4",
-                    "pb-4"
+                    "pl-96",
+                    "pr-96",
+                    "pt-96",
+                    "pb-1"
                 ]
             }
-        }
+        },
+        "url": "/images/1000070484.png"
     }
 }
