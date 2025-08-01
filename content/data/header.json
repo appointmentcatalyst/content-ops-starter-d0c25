@@ -20,7 +20,7 @@
         {
             "type": "Link",
             "label": "Send email",
-            "altText": "Play",
+            "altText": "Click Here",
             "url": "/support@appointmentcatalyst.com",
             "showIcon": true,
             "icon": "mail",
