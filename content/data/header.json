@@ -20,7 +20,7 @@
         {
             "type": "SubNav",
             "label": "Dropdown",
-            "altText": "Dropdown",
+            "altText": "Home",
             "links": [
                 {
                     "type": "Link",
