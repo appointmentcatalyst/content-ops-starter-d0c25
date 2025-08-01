@@ -540,7 +540,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Appointment Catalyst | Book More Appointments
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Appointment Catalyst | Book More Appointments
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
