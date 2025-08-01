@@ -25,7 +25,7 @@
                 {
                     "type": "Link",
                     "label": "Dropdown item",
-                    "altText": "",
+                    "altText": "Home",
                     "url": "/home",
                     "showIcon": false,
                     "icon": "arrowRight",
