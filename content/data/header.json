@@ -21,7 +21,7 @@
             "type": "Link",
             "label": "Send email",
             "altText": "Click Here",
-            "url": "/support@appointmentcatalyst.com",
+            "url": "/Home",
             "showIcon": true,
             "icon": "mail",
             "iconPosition": "right",
