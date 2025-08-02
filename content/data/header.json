@@ -11,7 +11,7 @@
         {
             "label": "About Us",
             "altText": "Careers page",
-            "url": "/careers",
+            "url": "https://appointmentcatalyst.com/careers",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
