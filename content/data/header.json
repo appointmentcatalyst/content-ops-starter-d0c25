@@ -22,7 +22,7 @@
             "label": "Home",
             "altText": "Click Here",
             "url": "https://appointmentcatalyst.com",
-            "showIcon": true,
+            "showIcon": false,
             "icon": "mail",
             "iconPosition": "right",
             "style": "secondary",
