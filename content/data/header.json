@@ -2,7 +2,7 @@
     "primaryLinks": [
         {
             "label": "Packages and Services",
-            "url": "/pricing",
+            "url": "https://appointmentcatalyst.com/pricing",
             "icon": "",
             "iconPosition": "right",
             "style": "secondary",
