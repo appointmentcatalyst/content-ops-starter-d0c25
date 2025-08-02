@@ -21,7 +21,7 @@
             "type": "Link",
             "label": "Home",
             "altText": "Click Here",
-            "url": "/Home",
+            "url": "https://appointmentcatalyst.com",
             "showIcon": true,
             "icon": "mail",
             "iconPosition": "right",
