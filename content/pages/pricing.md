@@ -17,7 +17,7 @@ sections:
         description: |
           You can maximize your saving by upgrading your appointment package.
         features:
-          - '10 appointments  - $200 per lead '
+          - '20 appointments  - $200 per lead '
           - 20 appointments - $190 per lead
           - 30 appointments -$180 per lead
           - 40 appointments - $170 per lead
